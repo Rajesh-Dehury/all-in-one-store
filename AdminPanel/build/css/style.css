@@ -1,0 +1,65 @@
+.fa-bars
+{
+	color: #fff !important;
+}
+.fa-bars:hover
+{
+	color: #bfbfbf !important;
+}
+.nav-md
+{
+	background: #000 !important;
+}
+.nav_title
+{
+	background: #076dc7 !important;
+}
+.left_col
+{
+	background: #000 !important;
+}
+.sidebar-footer
+{
+	background: #000 !important;
+}
+
+.nav_menu
+{
+	background: #0986f5 !important;
+}
+.top_nav .nav>li>a:hover
+{
+	background: #0b75d4;
+}
+.top_nav .nav .open>a
+{
+	background: #0b75d4 !important;	
+}
+.bx-line
+{
+	background: #135280;
+	height: 20px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	margin-bottom: -5px;
+	color: #fff;
+	text-align: center;
+}
+.tile-stats
+{
+	background: #036bc7 !important;
+	box-shadow: 5px 5px 15px 0px #888888;
+}
+
+.table_heade{
+	background: #0c3f6d;
+	color: #fff;
+}
+.table-bordered thead tr{
+	border: 1px solid #0c3f6d;
+}
+.table-bordered tbody tr td{
+	border: 1px solid #0c3f6d;
+	color: #000;
+}
+
